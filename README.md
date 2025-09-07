@@ -1,4 +1,4 @@
-# JavaScript 101 Lab
+# JavaScript Lab
 
 ## 👨‍🎓 Student Info
 - **Name:** Benedick Hamor  
